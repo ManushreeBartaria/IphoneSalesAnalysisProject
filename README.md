@@ -1,1 +1,2 @@
 # IphoneSalesAnalysisProject
+This project focuses primarily on data cleaning and analysis to identify the Top 10 iPhones available on Flipkart that are the most popular based on the number of ratings they have received. Additionally, it explores the relationship between sale price and ratings to determine whether offering discounts impacts sales performance and to evaluate if providing discounts is beneficial or necessary.
